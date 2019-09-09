@@ -1,5 +1,5 @@
 {
-  "name": "@antoned/s3",
+  "name": "@antoned0/s3",
   "version": "1.0.0",
   "description": "Amazon S3 client for upload/download files",
   "main": "lib/index.js",
